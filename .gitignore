@@ -2,5 +2,5 @@
 .sass-cache
 _site
 Gemfile.lock
-.gitignore.swp
 .jekyll-metadata
+.DS_Store
